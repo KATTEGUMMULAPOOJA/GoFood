@@ -5,7 +5,7 @@ export default function Card() {
         <div>
             <div>
                 <div className="card mt-3" style={{ "width": "18rem", "maxHeight": "360px" }}>
-                    <img src="..." className="card-img-top" alt="..." />
+                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F02%2F89%2F78%2F99%2F1000_F_289789964_WNWiakUNXTPNGRge682BZJBQ8Plw3F2Q.jpg&tbnid=O34O2poA7YVDIM&vet=12ahUKEwiVzafpz-CGAxVJ9DgGHUG6A1cQMyg0egUIARDqAQ..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fpaneer-manchurian-or-paneer-65-paneer-manchurian-is-indian-chinese-cuisine-dish-with-panner-cheese-tomatoes-onion-soy-sauce-close-up%2F289789964&docid=ynHSxIOOC76RhM&w=1000&h=665&q=panner&ved=2ahUKEwiVzafpz-CGAxVJ9DgGHUG6A1cQMyg0egUIARDqAQ" className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
                         <p className="card-text">This is some Important text.</p>
